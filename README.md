@@ -27,7 +27,7 @@ The dashboard combines **Financial Analytics**, **Clinical Performance Monitorin
 ## Executive Overview Dashboard
 
 <p align="center">
- <img width="1120" height="632" alt="image" src="https://github.com/user-attachments/assets/f7809df5-d623-4ff8-b684-f40a363e2e93" /> width="100%">
+ <img width="1120" height="632" alt="image" src="https://github.com/user-attachments/assets/f7809df5-d623-4ff8-b684-f40a363e2e93" 
 </p>
 
 ---
@@ -35,7 +35,7 @@ The dashboard combines **Financial Analytics**, **Clinical Performance Monitorin
 ## Clinical Performance Dashboard
 
 <p align="center">
-  <img width="1117" height="628" alt="image" src="https://github.com/user-attachments/assets/e279a5ba-e786-4c54-9553-7789b0b7d3c9" /> width="100%">
+  <img width="1117" height="628" alt="image" src="https://github.com/user-attachments/assets/e279a5ba-e786-4c54-9553-7789b0b7d3c9" 
 </p>
 
 ---
@@ -43,7 +43,7 @@ The dashboard combines **Financial Analytics**, **Clinical Performance Monitorin
 ## Insurance & Geographic Insights Dashboard
 
 <p align="center">
-  <img width="1121" height="627" alt="image" src="https://github.com/user-attachments/assets/0985d18d-d241-47fa-bc72-6c47f13509eb" /> width="100%">
+  <img width="1121" height="627" alt="image" src="https://github.com/user-attachments/assets/0985d18d-d241-47fa-bc72-6c47f13509eb" 
 </p>
 
 ---
