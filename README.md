@@ -1,8 +1,5 @@
 # 🏥 Hospital Performance Analytics Dashboard
 
-<p align="center">
-  <img src="Images/Overview.png" width="100%">
-</p>
 
 <p align="center">
   <b>Transforming Healthcare Data into Actionable Insights</b><br>
